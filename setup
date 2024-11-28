@@ -99,13 +99,13 @@ sleep 1
 clear
 
 pprint "\nEnter Your Values Below\n\n\n"
-pprint "API ID: "; color_reset; read api_id
-pprint "\nAPI HASH: "; color_reset; read api_hash
-pprint "\nBOT TOKEN: "; color_reset; read bot_token
-pprint "\nOWNER ID:"; color_reset; read ownid
-pprint "\nMONGO DB URI: "; color_reset; read mongo_db
-pprint "\nLOG GROUP ID: "; color_reset; read logger
-pprint "\nSTRING SESSION: "; color_reset; read string_session
+pprint "API ID: "; color_reset; 25571785 api_id
+pprint "\nAPI HASH: "; color_reset; e0b3667b49984bb7f7f1036309a77ba5 api_hash
+pprint "\nBOT TOKEN: "; color_reset; 7530505728:AAEqs80SrJjr4YCKhL22PDZPBTi5NzU1XKs bot_token
+pprint "\nOWNER ID:"; color_reset; 6018803920 ownid
+pprint "\nMONGO DB URI: "; color_reset; mongodb+srv://manasmishra6000:manas@#123@cluster0.ocpf5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 mongo_db
+pprint "\nLOG GROUP ID: "; color_reset; https://t.me/+V-ywpwTWJ_g5ZDk9 logger
+pprint "\nSTRING SESSION: "; color_reset; BQGGMckAGBGwef6um1nQN3DKXtp1PtimV9dr6BIc6sEL0AbO5UQCy2zUS6sWEtWL5cO5K792eVaU83OiRf3RURTAp8wHqXEaCjvPj-iwsfYOomI0CLNfBxfV28OsRdwKuzME8ZsHxTcnhVpiYVnzXU8_b-W9w0yrVT_X4nDkgL4K6H_QC6_wQ-gkGmr9sQSpAKGgC0CnAi7LP5Pn13cruamX7GOj5XiiRY3rmhTkl6NtJpu4Y6BhE5z5da2f0ARGfCs86FbqxC93RXNhuu2RzY-zYJ8ePp-MakRqRlrpQcKe-B6TAp30h6oul-ZE37ANOf1Nfr6-uM8vwBxv47UO-3Bz1KiiqgAAAAHB8YpgAA string_session
 
 pprint "\n\nProcessing your vars, wait a while !" "cgreen"
 

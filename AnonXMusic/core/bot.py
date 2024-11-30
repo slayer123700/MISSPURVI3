@@ -10,10 +10,10 @@ class Anony(Client):
     def __init__(self):
         LOGGER(__name__).info(f"Starting Bot...")
         super().__init__(
-            name="AnonXMusic",
-            api_id=config.API_ID,
-            api_hash=config.API_HASH,
-            bot_token=config.BOT_TOKEN,
+            name="MBT_MUSIC",
+            api_id=config.,
+            api_hash=config.e0b3667b49984bb7f7f1036309a77ba5,
+            bot_token=config.7530505728:AAEqs80SrJjr4YCKhL22PDZPBTi5NzU1XKs,
             in_memory=True,
             parse_mode=ParseMode.HTML,
             max_concurrent_transmissions=7,
